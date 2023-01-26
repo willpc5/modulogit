@@ -1,7 +1,1 @@
-asf
-asdf
-asfas
-dfasd
-fasd
-fasdfasdfasdfa
-asdfadfadfasd
+alert("Olá Mundo!");
